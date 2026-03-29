@@ -1,6 +1,5 @@
 import { createRoot } from "react-dom/client";
-import HelloWorld from "./HelloWorld";
-import QuoteText from "./QuoteText";
+import BiodataDiri from "./BiodataDiri";
 import Container from "./Container";
 import './custom.css';
 
@@ -8,9 +7,7 @@ createRoot(document.getElementById("root"))
     .render(
         <div>
             <Container> 
-                <img src="img/husbu.jpg" alt="Logo" width="100%"/>
-                <HelloWorld/>
-                <QuoteText/>
+            <BiodataDiri/>
             </Container>           
         </div>
     )
