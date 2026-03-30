@@ -1,4 +1,4 @@
-function BiodataDiri(){
+export default function BiodataDiri(){
   const dataSaya = {
     nama: "Raisya Revalina",
     foto: "img/foto.jpg",
