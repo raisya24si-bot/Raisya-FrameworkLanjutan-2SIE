@@ -6,8 +6,8 @@ import './tailwind.css';
 createRoot(document.getElementById("root"))
     .render(
         <div>
-            {/* <FrameworkList />
-             <FrameworkListSearchFilter /> */}
+            {/* <FrameworkList /> */}
+             {/* <FrameworkListSearchFilter /> */}
                 <ResponsiveDesign/>
         </div>
      );

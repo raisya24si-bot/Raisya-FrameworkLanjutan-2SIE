@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi Senja",
+    "category": "Modern Cafe",
+    "city": "Pekanbaru",
+    "rating": 4.7,
+    "priceRange": "Rp25.000 - Rp50.000",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "status": "Open",
+    "details": {
+      "owner": "Andi Saputra",
+      "established": 2020,
+      "instagram": "@kopisenja"
+    },
+    "facilities": ["WiFi", "AC", "Outdoor"]
+  },
+  {
+    "id": 2,
+    "name": "Brew House",
+    "category": "Industrial Cafe",
+    "city": "Pekanbaru",
+    "rating": 4.5,
+    "priceRange": "Rp30.000 - Rp60.000",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "status": "Open",
+    "details": {
+      "owner": "Rina Putri",
+      "established": 2019,
+      "instagram": "@brewhouse"
+    },
+    "facilities": ["WiFi", "Meeting Room", "Parking Area"]
+  },
+  {
+    "id": 3,
+    "name": "Daily Beans",
+    "category": "Minimalist Cafe",
+    "city": "Dumai",
+    "rating": 4.3,
+    "priceRange": "Rp20.000 - Rp45.000",
+    "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0",
+    "status": "Closed",
+    "details": {
+      "owner": "Siska Rahma",
+      "established": 2021,
+      "instagram": "@dailybeans"
+    },
+    "facilities": ["WiFi", "Indoor"]
+  },
+  {
+    "id": 4,
+    "name": "Coffee Corner",
+    "category": "Outdoor Cafe",
+    "city": "Siak",
+    "rating": 4.2,
+    "priceRange": "Rp20.000 - Rp40.000",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "status": "Open",
+    "details": {
+      "owner": "Budi Santoso",
+      "established": 2018,
+      "instagram": "@coffeecorner"
+    },
+    "facilities": ["Outdoor", "WiFi"]
+  },
+  {
+    "id": 5,
+    "name": "Urban Brew",
+    "category": "Industrial Cafe",
+    "city": "Duri",
+    "rating": 4.6,
+    "priceRange": "Rp30.000 - Rp55.000",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "status": "Open",
+    "details": {
+      "owner": "Dewi Lestari",
+      "established": 2020,
+      "instagram": "@urbanbrew"
+    },
+    "facilities": ["WiFi", "AC"]
+  },
+  {
+    "id": 6,
+    "name": "Morning Cup",
+    "category": "Minimalist Cafe",
+    "city": "Pekanbaru",
+    "rating": 4.1,
+    "priceRange": "Rp15.000 - Rp35.000",
+    "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0",
+    "status": "Closed",
+    "details": {
+      "owner": "Sari Dewi",
+      "established": 2017,
+      "instagram": "@morningcup"
+    },
+    "facilities": ["Indoor", "WiFi"]
+  },
+  {
+    "id": 7,
+    "name": "Cafe Kita",
+    "category": "Family Cafe",
+    "city": "Bangkinang",
+    "rating": 4.4,
+    "priceRange": "Rp25.000 - Rp45.000",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "status": "Open",
+    "details": {
+      "owner": "Rahmat Hidayat",
+      "established": 2019,
+      "instagram": "@cafekita"
+    },
+    "facilities": ["Family Room", "WiFi"]
+  },
+  {
+    "id": 8,
+    "name": "Brew Daily",
+    "category": "Modern Cafe",
+    "city": "Dumai",
+    "rating": 4.3,
+    "priceRange": "Rp20.000 - Rp50.000",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "status": "Open",
+    "details": {
+      "owner": "Putra Wijaya",
+      "established": 2021,
+      "instagram": "@brewdaily"
+    },
+    "facilities": ["WiFi", "Outdoor"]
+  },
+  {
+    "id": 9,
+    "name": "Ngopi Santai",
+    "category": "Outdoor Cafe",
+    "city": "Siak",
+    "rating": 4.0,
+    "priceRange": "Rp15.000 - Rp30.000",
+    "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0",
+    "status": "Closed",
+    "details": {
+      "owner": "Ahmad Fauzi",
+      "established": 2016,
+      "instagram": "@ngopisantai"
+    },
+    "facilities": ["Outdoor"]
+  },
+  {
+    "id": 10,
+    "name": "Coffee Hub",
+    "category": "Industrial Cafe",
+    "city": "Pekanbaru",
+    "rating": 4.8,
+    "priceRange": "Rp35.000 - Rp70.000",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "status": "Open",
+    "details": {
+      "owner": "Fajar Nugroho",
+      "established": 2022,
+      "instagram": "@coffeehub"
+    },
+    "facilities": ["WiFi", "AC"]
+  },
+  {
+    "id": 11,
+    "name": "Simple Brew",
+    "category": "Minimalist Cafe",
+    "city": "Duri",
+    "rating": 4.2,
+    "priceRange": "Rp20.000 - Rp40.000",
+    "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0",
+    "status": "Open",
+    "details": {
+      "owner": "Rizky Pratama",
+      "established": 2020,
+      "instagram": "@simplebrew"
+    },
+    "facilities": ["Indoor", "WiFi"]
+  },
+  {
+    "id": 12,
+    "name": "Coffee Time",
+    "category": "Modern Cafe",
+    "city": "Bangkinang",
+    "rating": 4.5,
+    "priceRange": "Rp25.000 - Rp60.000",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "status": "Open",
+    "details": {
+      "owner": "Indah Sari",
+      "established": 2018,
+      "instagram": "@coffeetime"
+    },
+    "facilities": ["WiFi", "Outdoor"]
+  },
+  {
+    "id": 13,
+    "name": "Chill Cafe",
+    "category": "Outdoor Cafe",
+    "city": "Dumai",
+    "rating": 4.1,
+    "priceRange": "Rp15.000 - Rp35.000",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "status": "Closed",
+    "details": {
+      "owner": "Yoga Prasetyo",
+      "established": 2017,
+      "instagram": "@chillcafe"
+    },
+    "facilities": ["Outdoor"]
+  },
+  {
+    "id": 14,
+    "name": "Urban Coffee",
+    "category": "Industrial Cafe",
+    "city": "Siak",
+    "rating": 4.6,
+    "priceRange": "Rp30.000 - Rp65.000",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "status": "Open",
+    "details": {
+      "owner": "Bayu Saputra",
+      "established": 2021,
+      "instagram": "@urbancoffee"
+    },
+    "facilities": ["WiFi", "AC"]
+  },
+  {
+    "id": 15,
+    "name": "Cafe Senyum",
+    "category": "Family Cafe",
+    "city": "Pekanbaru",
+    "rating": 4.3,
+    "priceRange": "Rp20.000 - Rp50.000",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "status": "Open",
+    "details": {
+      "owner": "Nina Marlina",
+      "established": 2019,
+      "instagram": "@cafesenyum"
+    },
+    "facilities": ["WiFi"]
+  },
+  {
+    "id": 16,
+    "name": "Brew Space",
+    "category": "Modern Cafe",
+    "city": "Duri",
+    "rating": 4.7,
+    "priceRange": "Rp35.000 - Rp70.000",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "status": "Open",
+    "details": {
+      "owner": "Rudi Hartono",
+      "established": 2022,
+      "instagram": "@brewspace"
+    },
+    "facilities": ["WiFi", "AC"]
+  },
+  {
+    "id": 17,
+    "name": "Ngopi Yuk",
+    "category": "Outdoor Cafe",
+    "city": "Bangkinang",
+    "rating": 4.0,
+    "priceRange": "Rp15.000 - Rp30.000",
+    "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0",
+    "status": "Closed",
+    "details": {
+      "owner": "Arif Hidayat",
+      "established": 2016,
+      "instagram": "@ngopiyuk"
+    },
+    "facilities": ["Outdoor"]
+  },
+  {
+    "id": 18,
+    "name": "Coffee Lab",
+    "category": "Industrial Cafe",
+    "city": "Pekanbaru",
+    "rating": 4.8,
+    "priceRange": "Rp40.000 - Rp80.000",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "status": "Open",
+    "details": {
+      "owner": "Kevin Tan",
+      "established": 2023,
+      "instagram": "@coffeelab"
+    },
+    "facilities": ["WiFi", "AC"]
+  },
+  {
+    "id": 19,
+    "name": "Simple Cup",
+    "category": "Minimalist Cafe",
+    "city": "Dumai",
+    "rating": 4.2,
+    "priceRange": "Rp20.000 - Rp40.000",
+    "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0",
+    "status": "Open",
+    "details": {
+      "owner": "Lina Putri",
+      "established": 2020,
+      "instagram": "@simplecup"
+    },
+    "facilities": ["Indoor", "WiFi"]
+  },
+  {
+    "id": 20,
+    "name": "Happy Brew",
+    "category": "Family Cafe",
+    "city": "Siak",
+    "rating": 4.4,
+    "priceRange": "Rp25.000 - Rp55.000",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "status": "Open",
+    "details": {
+      "owner": "Maya Sari",
+      "established": 2019,
+      "instagram": "@happybrew"
+    },
+    "facilities": ["WiFi"]
+  }
+  
+]
